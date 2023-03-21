@@ -4,12 +4,12 @@ A new Flutter project.
 
 <table>
   <tr>
-    <td><img src="assets/image/1.png" </td>
-    <td><img src="assets/image/2.png" </td>
-    <td><img src="assets/image/3.png" </td>
+    <td><img src="asset/image/1.png" </td>
+    <td><img src="asset/image/2.png" </td>
+    <td><img src="asset/image/3.png" </td>
   </tr>
   <tr>
-    <td><img src="assets/image/4.png" </td>
+    <td><img src="asset/image/4.png" </td>
   </tr>
 </table>
 
